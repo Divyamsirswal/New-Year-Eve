@@ -1,2 +1,2 @@
-# New-Year-Eve-
+# New-Year-Eve
 ~Minimal Style
