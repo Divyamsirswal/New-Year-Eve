@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@1,300&family=Ubuntu:wght@700&display=swap');
+
+*{
+    box-sizing: border-box;
+    
+}
+
+body{
+    background-image:url(./bg.jpg) ;
+    min-height: 100vh;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-position: center center;
+    font-family:"Prompt", sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-weight:normal;
+    font-size: 4rem;
+    margin-top: 5rem;
+    
+
+}
+
+.countdown-container{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.big-text{
+    font-weight: bold;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0 2rem;
+    
+}
+
+.countdown-el {
+    text-align: center;
+    
+}
+
+.countdown-el span{
+    font-size: 1.5rem;
+}
+
+
+
